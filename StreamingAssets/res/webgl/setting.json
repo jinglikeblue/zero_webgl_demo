@@ -1,0 +1,17 @@
+{
+  "client": {
+    "version": null,
+    "url": null
+  },
+  "netResRoot": null,
+  "startupResGroups": null,
+  "startupParams": null,
+  "lsLogEnable": {
+    "isOverride": false,
+    "value": false
+  },
+  "lsUseDll": {
+    "isOverride": false,
+    "value": false
+  }
+}
